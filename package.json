@@ -1,0 +1,16 @@
+{
+  "name": "dfu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "serialport": "12.0.0",
+    "usb": "2.13.0"
+  }
+}
